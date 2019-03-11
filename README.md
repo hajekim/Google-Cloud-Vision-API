@@ -11,4 +11,3 @@ So, let's use the Vision API!
 
 - [Google Cloud Vision API Site](https://cloud.google.com/vision/)
 - [Cloud Vision APIの使い方まとめ (サンプルコード付き)](https://syncer.jp/cloud-vision-api)
-- 
